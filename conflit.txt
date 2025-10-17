@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 1 odeif master"
 2
+=======
+1
+2 modif
+>>>>>>> realwork
 3
 
